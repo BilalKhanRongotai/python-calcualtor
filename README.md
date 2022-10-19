@@ -29,3 +29,4 @@ There are no objects in the window other than the display
 I havechosen Tkinter because it is used for GUI's
 
 I have chosen th colors because they are for 7 year olds who may be attracted to brighter colors. I have not made the buttons that big because they can read the words.
+<a href="task"><image src ="?rawtrue" title="pp" width=500>
